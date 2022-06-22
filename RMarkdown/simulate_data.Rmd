@@ -2,7 +2,7 @@
 output:
   md_document:
     variant: markdown_mmd
-knit: (function(input, ...) {rmarkdown::render(input,output_file="markdown/simulate_data.md")})
+knit: (function(input, ...){rmarkdown::render(input,output_file="../Markdown/simulate_data.md")})
 ---
 
 # How to simulate data in R
@@ -40,6 +40,7 @@ $s=\sqrt{\frac{1}{N-1}\sum_{i=1}^N(x_i-\bar{x})^2}$
 
 $s=\sqrt{\frac{\sum_{i=1}^N(x_i-\bar{x})^2}{N-1}}$
 
+test2
 
 
 

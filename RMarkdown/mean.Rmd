@@ -2,7 +2,7 @@
 output:
   md_document:
     variant: markdown_mmd
-knit: (function(input, ...) {rmarkdown::render(input,output_file="markdown/mean.md")})
+knit: (function(input, ...) {rmarkdown::render(input,output_file="../Markdown/mean.md")})
 ---
 
 # How to calculate the mean
