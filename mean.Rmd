@@ -1,0 +1,14 @@
+---
+output:
+  md_document:
+    variant: markdown_github
+---
+
+```{r setup, message=F}
+library(tidyverse)
+```
+
+```{r}
+mean(c(1,2,3))
+```
+

@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Simulation_of_Data.md",
-            "mode": "source",
+            "file": "mean.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Simulation_of_Data.md",
+                "file": "mean.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +89,11 @@
   },
   "active": "77c6d723739698da",
   "lastOpenFiles": [
+    "mean.md",
+    "simulateData.md",
     "Simulation_of_Data.md",
+    "Simulation_of_Data_files/figure-markdown_strict/unnamed-chunk-1-1.png",
+    "Simulation_of_Data_files/figure-markdown_github/unnamed-chunk-1-1.png",
     "How to simulate data in R.md"
   ]
 }
