@@ -35,4 +35,5 @@ data %>%
   geom_smooth(formula = y ~ x, method = lm, se = F)
 ```
 
+mean
 

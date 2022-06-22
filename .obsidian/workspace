@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "mean.md",
-            "mode": "preview",
+            "file": "simulate_data.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mean.md",
+                "file": "simulate_data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "77c6d723739698da",
   "lastOpenFiles": [
+    "simulate_data.md",
     "mean.md",
     "simulateData.md",
     "Simulation_of_Data.md",
