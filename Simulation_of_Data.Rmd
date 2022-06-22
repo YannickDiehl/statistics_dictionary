@@ -1,18 +1,20 @@
 ---
-title: "How to Simulate Data"
-date: "6/22/2022"
-output: html_document
+output: md_document
 ---
 
-```{r, setup, results='hide'}
+# How to simulate data in R
+
+## Setup
+
+```{r setup, message=F}
 library(faux)
 ```
 
-# Simulation Population
+## Simulation Population
 
 Simulation einer Population.
 
-```{r}
+```{r data simulation}
 data <- rnorm_multi(
   n = 200, 
   mu = c(0, 45, 180),
