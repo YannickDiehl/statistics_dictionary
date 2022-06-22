@@ -31,6 +31,13 @@ data %>%
 
 ![](simulate_data_files/figure-markdown_mmd/unnamed-chunk-1-1.png)
 
+
+
 $s=\sqrt{\frac{1}{N-1}\sum_{i=1}^N(x_i-\bar{x})^2}$
 
+
+
+
 $s=\sqrt{\frac{\sum_{i=1}^N(x_i-\bar{x})^2}{N-1}}$
+
+
