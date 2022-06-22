@@ -1,14 +1,11 @@
 ---
 output:
   md_document:
-    variant: markdown_github
+    variant: markdown_mmd
 ---
 
-```{r setup, message=F}
-library(tidyverse)
-```
+# How to calculate the mean
 
-```{r}
-mean(c(1,2,3))
-```
+## Formel
 
+$mean=$

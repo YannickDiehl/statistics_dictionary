@@ -1,9 +1,5 @@
-``` r
-library(tidyverse)
-```
+# How to calculate the mean
 
-``` r
-mean(c(1,2,3))
-```
+## Formel
 
-    ## [1] 2
+$mean=$
