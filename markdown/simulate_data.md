@@ -29,7 +29,7 @@ data %>%
   geom_smooth(formula = y ~ x, method = lm, se = F)
 ```
 
-![](simulate_data_files/figure-markdown_mmd/unnamed-chunk-1-1.png)
+![](markdown/simulate_data_files/figure-markdown_mmd/unnamed-chunk-1-1.png)
 
 $s=\sqrt{\frac{1}{N-1}\sum_{i=1}^N(x_i-\bar{x})^2}$
 
