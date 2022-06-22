@@ -34,5 +34,3 @@ data %>%
 $s=\sqrt{\frac{1}{N-1}\sum_{i=1}^N(x_i-\bar{x})^2}$
 
 $s=\sqrt{\frac{\sum_{i=1}^N(x_i-\bar{x})^2}{N-1}}$
-
-$$\[mean$$\]
